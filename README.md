@@ -1,22 +1,22 @@
-# Project Title
-One Paragraph of project description goes here
+# Calculater
+This project is for making calculater with python
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-What things you need to install the software and how to install them
+If you want to run this program then you have to download file from this url.
+https://anaconda.org/main/pyqt
+
+or you can download this file just type
+<pre>conda install -c main pyqt</pre>
 
 ## Built With
-Dropwizard - The web framework used
-Maven - Dependency Management
-ROME - Used to generate RSS Feeds
-Contributing
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+PyQt5 5.15.7 - https://pypi.org/project/PyQt5/
 
 ## Authors
-Billie Thompson - Initial work - PurpleBooth
-See also the list of contributors who participated in this project.
+공부하는박사곰 - https://studyingrabbit.tistory.com/23
+TrixieL20
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
