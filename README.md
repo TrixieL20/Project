@@ -16,6 +16,7 @@ PyQt5 5.15.7 - https://pypi.org/project/PyQt5/
 
 ## Authors
 공부하는박사곰 - https://studyingrabbit.tistory.com/23
+
 TrixieL20
 
 ## License
