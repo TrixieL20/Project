@@ -5,11 +5,8 @@ This project is for making calculater with python
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-If you want to run this program then you have to download file from this url.
-https://anaconda.org/main/pyqt
-
-or you can download this file just type
-<pre>conda install -c main pyqt</pre>
+If you want to run this program then you have to download file just type like this at cmd.
+<pre>pip install PyQt5</pre>
 
 ## Built With
 PyQt5 5.15.7 - https://pypi.org/project/PyQt5/
